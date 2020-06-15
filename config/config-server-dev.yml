@@ -1,6 +1,6 @@
 spring:
   application:
-    name: springbootService1
+    name: springbootService
     
 server:
   port: 6006
